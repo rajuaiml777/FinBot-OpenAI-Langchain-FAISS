@@ -51,7 +51,7 @@ FinanceBOT is designed to help you quickly find information in news articles by 
    ```bash
     OPENAI_API_KEY=your_openai_api_key
 
-4. **Create a .env file and add your OpenAI API key:**
+4. **Run the Application:**
    ```bash
     streamlit run app.py
 

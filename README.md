@@ -44,15 +44,15 @@ FinanceBOT is designed to help you quickly find information in news articles by 
      cd FinBot-OpenAI-Langchain-FAISS
 
 3. **Install the required dependencies:**
-```bash
+   ```bash
     pip install -r requirements.txt
 
 4. **Create a .env file and add your OpenAI API key:**
-```bash
+   ```bash
     OPENAI_API_KEY=your_openai_api_key
 
 4. **Create a .env file and add your OpenAI API key:**
-```bash
+   ```bash
     streamlit run app.py
 
 
